@@ -1,0 +1,77 @@
+header{
+   background-color: #673ab7;
+}
+main{
+    clear: both;
+}
+
+.equipo{
+    border: 1px solid red;
+    margin: 5px;
+}
+
+#logo-liga{
+    height: 100px;
+    position: absolute;
+    top: 40px;
+    left: 1cm;
+}
+.equipo-estadio{
+    color: #673ab7;
+}
+
+.competicion-logo{
+    height: 100px;
+}
+body{
+    font-family: 'Lato',sans-serif;
+}
+
+header{
+    background-color: #673ab7;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    color: white;
+}
+
+#nobre-liga{
+    text-align: center;
+    color: azure;
+}
+
+.equipo{
+    display: inline-block;
+    padding: 10px;
+    margin: 20px;
+    -webkit-box-shadow: 4px 4px 20px 0px rgba(0,0,0,0.8);
+    box-shadow: 4px 4px 20px 0px #000000cc;
+    
+}
+#jornada-actual{
+    color: azure;
+    text-align: center;
+}
+p{
+    color:black;
+    
+}
+
+.equipo-imagen{
+    height: 100px;
+}
+
+.equipo-nombre{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    margin: 15px;
+}
+
+.equipo{
+    display: inline-block;
+    background-color: azure;
+    text-align: center;
+    border-radius: 15px;
+    padding: 15px;
+}
